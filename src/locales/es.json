@@ -1,0 +1,17 @@
+{
+  "titulo": "Personajes de Rick y Morty",
+  "especie": "Especie",
+  "estado": "Estado",
+  "genero": "Género",
+  "origen": "Origen",
+  "ubicacion": "Ubicación",
+  "creado": "Creado",
+  "episodios": "Episodios",
+  "volver": "Volver",
+  "buscar": "Buscar personaje por nombre...",
+  "siguiente": "Siguiente",
+  "anterior": "Anterior",
+  "pagina": "Página",
+  "verdetalle": "Ver detalle",
+  "favorito": "Favorito"
+}
