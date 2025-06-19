@@ -1,0 +1,17 @@
+{
+  "titulo": "Rick and Morty Characters",
+  "especie": "Species",
+  "estado": "Status",
+  "genero": "Gender",
+  "origen": "Origin",
+  "ubicacion": "Location",
+  "creado": "Created",
+  "episodios": "Episodes",
+  "volver": "Back",
+  "buscar": "Search character by name...",
+  "siguiente": "Next",
+  "anterior": "Previous",
+  "pagina": "Page",
+  "verdetalle": "View detail",
+  "favorito": "Favorite"
+}
