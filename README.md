@@ -15,13 +15,6 @@ Aplicación web creada con **Vue 3**, que consume la [API pública de Rick and M
 
 ---
 
-## 🚀 Demo
-
-**URL pública:** [https://tusitio.com](https://tusitio.com)  
-*(opcional si haces deploy en Netlify, Vercel o GitHub Pages)*
-
----
-
 ## 📦 Tecnologías usadas
 
 - [Vue 3](https://vuejs.org/)
