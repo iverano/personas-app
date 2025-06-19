@@ -22,7 +22,7 @@ Aplicación web creada con **Vue 3**, que consume la [API pública de Rick and M
 - [Vue Router](https://router.vuejs.org/)
 - [Vue I18n](https://vue-i18n.intlify.dev/)
 - [Axios](https://axios-http.com/)
-- [Bootstrap 5](https://getbootstrap.com/) *(si aplica)*
+- [Bootstrap 5](https://getbootstrap.com/)
 
 ---
 
@@ -42,14 +42,14 @@ npm run dev
 ## 🛠️ Estructura del proyecto
 
 src/
-├── assets/            # Estilos globales
-├── components/        # Componentes reutilizables (e.g. Persona.vue)
-├── views/             # Vistas principales (e.g. App.vue, PersonaDetalle.vue)
-├── router/            # Configuración de Vue Router
-├── stores/            # Pinia stores (e.g. dataPersonajes.js)
-├── locales/           # Archivos de traducción i18n
-├── App.vue            # Componente raíz
-├── main.ts            # Punto de entrada principal
+- assets/            # Estilos globales
+- components/        # Componentes reutilizables (e.g. Persona.vue)
+- views/             # Vistas principales (HomeView.vue, PersonaDetalle.vue)
+- router/            # Configuración de Vue Router
+- stores/            # Pinia stores (dataPersonajes.js)
+- locales/           # Archivos de traducción i18n
+- App.vue            # Componente raíz
+- main.ts            # Punto de entrada principal
 
 ---
 
